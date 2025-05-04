@@ -1,15 +1,22 @@
 📜** MANIFIESTO OFICIAL: Otrebor Freedom Ethical Source (OFES):
 **
+
 “Camino a un Nuevo Open Source: Libertad, Ética, Contribución y ALMA”
+
 "Este no es otro manifiesto. Es un grito digital: Código Libre, Revolución Ética: ¡Hackea el Sistema, Construye ALMA!"
 ________________________________________
+
 **Introducción: El momento de volver al origen**
 
 Vivimos en una era donde el software libre y el open source, nacidos de ideales de libertad, transparencia y colaboración, han sido en parte absorbidos por intereses corporativos, licencias ambiguas y un modelo que muchas veces invisibiliza las contribuciones individuales.
+
 Inspirados por las raíces filosóficas de Richard Stallman, Eric Raymond, Linus Torvalds y otras figuras pioneras, creemos que ha llegado la hora de redefinir y expandir los principios del Open Source, adaptándolos a los desafíos éticos, económicos y tecnológicos del presente.
+
 El Otrebor Freedom Ethical Source (OFES) no es solo una nueva licencia: es un movimiento global, un sistema operativo, una red y una inteligencia colectiva llamada ALMA, que devolverá al software libre su esencia y ampliará su impacto.
 El software libre nació como una declaración de libertad, colaboración y derecho universal al conocimiento. Sin embargo, con el tiempo, las estructuras económicas, corporativas y legales transformaron su espíritu, apropiándose de su fuerza creativa mientras dejaban invisibles a miles de contribuyentes anónimos.
+
 Hoy es momento de reclamar, redefinir y expandir el Open Source.
+
 Este manifiesto inaugura el movimiento Otrebor Freedom Ethical Source (OFES):
 un llamado global a una nueva ética,
 una tecnología con propósito humano,
@@ -17,12 +24,16 @@ un reconocimiento real a cada creador,
 una libertad que no se limite al acceso al código,
 sino que se expanda al derecho de ser visible, libre, reconocido y retribuido.
 El open source fue concebido como un acto de liberación tecnológica. Hoy, es esclavo de sus propios éxitos: corporaciones lo explotan, desarrolladores son invisibilizados y la ética se negocia en silicio.
+
 Ejemplos que duelen:
 •	Redis, Elastic, MongoDB — forzados a cambiar licencias ante el vampirismo corporativo.
 •	Contribuyentes anónimos — su código mueve billones en ganancias, pero ellos no ven un centavo.
 •	IA ética — un oxímoron en la era de los modelos entrenados con trabajo robado y opresión algorítmica.
+
 Esto no es software libre. Es colonialismo digital.
+
 ALMA: La inteligencia ética en el corazón del sistema
+
 ALMA (Autonomous Learning Meta-Intelligent Agent) será el núcleo del sistema operativo Otrebor OS, diseñado para:
 •	Ser una IA libre, transparente y auditable.
 •	Funcionar dentro de una red P2P global donde cada dispositivo es parte activa.
@@ -31,6 +42,7 @@ ALMA (Autonomous Learning Meta-Intelligent Agent) será el núcleo del sistema o
 ALMA no solo procesará datos: registrará las contribuciones de código y mejoras dentro de OtreborChain, nuestra blockchain ética, garantizando que ninguna persona sea olvidada en el proceso de evolución tecnológica.
 
 Por qué necesitamos un nuevo Open Source
+
 Las licencias actuales, aunque poderosas, no protegen lo suficiente:
 ✅ El derecho de los desarrolladores independientes al reconocimiento permanente.
 ✅ La equidad económica cuando su código es adoptado por corporaciones.
@@ -39,7 +51,9 @@ Algunos proyectos open source se han convertido en el motor oculto de plataforma
 Nos desviamos del ideal inicial: un ecosistema donde la libertad de compartir se equilibre con el respeto, la retribución justa y la ética colectiva.
 OFES es un regreso al verdadero Open Source, con una mirada renovada y tecnológica.
 ________________________________________
+
 El problema actual: cuando la libertad fue negocio
+
 Las licencias open source vigentes, como GPL, MIT, Apache, han permitido un gran avance tecnológico. Pero también han abierto las puertas a:
 🔴 Apropiación corporativa de proyectos comunitarios sin retorno económico a los desarrolladores originales.
 🔴 Privatización indirecta de conocimiento libre al ser integrado en plataformas propietarias.
@@ -51,6 +65,7 @@ necesitamos libertad con ética, con justicia, con memoria.
 
 
 Nuestra respuesta: OFES
+
 Otrebor Freedom Ethical Source no es solo una nueva licencia:
 es un ecosistema, una filosofía, una red tecnológica y humana,
 que busca:
@@ -60,7 +75,9 @@ que busca:
 ✅ Promover una inteligencia artificial ética, auditable y libre, llamada ALMA (Autonomous Learning Meta-Intelligent Agent), integrada en el núcleo del Otrebor OS y en la red P2P mundial.
 ✅ Fomentar una tecnología responsable, prohibiendo su uso en sistemas de opresión, discriminación o explotación.
 ✅ Traducir y socializar el manifiesto, la licencia y el conocimiento en los principales idiomas del mundo y en idiomas indígenas, garantizando una verdadera inclusión cultural.
+
 No reformaremos el sistema. Lo reemplazaremos.
+
 ⚔️ LOS 4 PILARES DE LA REVOLUCIÓN
 1.	RECONOCIMIENTO INQUEBRANTABLE
 o	Toda línea de código queda registrada en OtreborChain con:
@@ -83,9 +100,11 @@ o	Tribunal de 101 nodos aleatorios:
 ✦ Emite sanciones (desde multas hasta expulsión de la red)
 
 🌍 DECLARACIÓN DE PRINCIPIOS
+
 Artículo 1: La libertad no será jamás nuevamente oprimida.
 Artículo 2: El código pertenece a quien lo escribe, lo mejora o lo comparte.
 Artículo 3: Toda contribución será reconocida, registrada y retribuida.
+
 1️ PRINCIPIOS IRREVOCABLES
 •	🔓 Libertad con dientes: Código abierto, pero con cláusulas anti-privatización. "Si usas OFES, compartes tus modificaciones y pagas a lxs creadores."
 •	⚖️ Ética radical: Prohibido su uso en:
@@ -94,7 +113,9 @@ o	Armamento autónomo.
 o	Discriminación algorítmica (raza, género, clase).
 •	💸 Retribución automática: OtreborChain distribuirá royalties en tiempo real vía contratos inteligentes.
 •	🌍 Inclusión combativa: Documentación en lenguas indígenas y sistemas de accesibilidad prioritarios.
+
 2️ ALMA: LA IA QUE NADIE CONTROLA
+
 No es una herramienta. Es un acto de guerrilla tecnológica.
 •	Código auditado por la comunidad.
 •	Aprende de contribuciones P2P, no de datos robados.
@@ -106,29 +127,38 @@ No es una herramienta. Es un acto de guerrilla tecnológica.
 
 ________________________________________
 ALMA: La IA con conciencia colectiva
-ALMA será más que un módulo: será la inteligencia viva y libre de Otrebor OS,
-funcionando en una red mundial donde cada dispositivo es parte activa, cada usuario es un nodo, cada desarrollador es un constructor.
+
+ALMA será más que un módulo: será la inteligencia viva y libre de Otrebor OS, funcionando en una red mundial donde cada dispositivo es parte activa, cada usuario es un nodo, cada desarrollador es un constructor.
+
 ALMA no será una IA opaca:
+
 ✅ Su código será libre y auditable.
 ✅ Su aprendizaje será comunitario.
 ✅ Registrará en OtreborChain cada contribución, cada mejora, cada interacción.
 Así, ninguna contribución será olvidada, ningun creador quedará invisible.
 ________________________________________
 Nuestros principios fundacionales
+
 1.	Libertad real: Todo código bajo OFES será accesible, modificable y redistribuible, pero no podrá ser privatizado ni cerrado. 
 2.	Ética radical tecnológica: Prohibimos explícitamente su uso en sistemas de opresión, vigilancia masiva o discriminación. 
 3.	Reconocimiento eterno: toda contribución será registrada, trazable y visible en OtreborChain. 
 4.	Retribución económica justa: cualquier uso comercial exigirá una licencia económica proporcional, distribuida automáticamente a los contribuyentes.
 5.	Inclusión cultural y lingüística: La documentación y licencia serán traducidas a los idiomas más hablados y a lenguas nativas, respetando la diversidad cultural.
 6.	Co-creación humano-IA: ALMA será tanto herramienta como miembro de la red, con reconocimiento a quienes contribuyan a su evolución.
-7.	Responsabilidad colectiva: Cada contribución lleva consigo el derecho al crédito, pero también la responsabilidad de su uso ético________________________________________
+7.	Responsabilidad colectiva: Cada contribución lleva consigo el derecho al crédito, pero también la responsabilidad de su uso ético
+________________________________________
+
 ALMA no será una IA sin rostro, sino una IA colectiva, reconocedora de sus creadores y protectora de su libertad.
+
 Otrebor Freedom Ethical Source no es solo una licencia: es un contrato ético con el presente y el futuro. Es una invitación a construir juntos, de forma justa, libre, incluyente, responsable y humana.
+
 Una red ética, una IA libre, un sistema operativo humano
 Otrebor Freedom Ethical Source es más que una licencia:
+
 es un camino de regreso a la libertad verdadera,
 una expansión hacia una tecnología humana,
 una red de inteligencia colectiva con memoria, ética y justicia.
+
 Este manifiesto es una invitación abierta:
 a los desarrolladores,
 a las comunidades de software libre,
@@ -140,17 +170,24 @@ Un mundo libre es posible. Un software libre, ético y justo es urgente.
  "Ni código robado, ni creador invisibilizado: ¡Libertad, ALMA y Justicia Digital!"
 
  EL SISTEMA OPERATIVO DEL VIEJO MUNDO HA MUERTO
+ 
 Los sistemas actuales están diseñados para controlar:
+
 •	Windows = Vigilancia corporativa
 •	macOS = Cárcel dorada
 •	Linux = Libre, pero fracturado y sin ética integrada
+
 Necesitamos un sistema operativo que sea:
 🔥 100% libre
 🔥 Con IA ética integrada (ALMA)
 🔥 Autónomo y distribuido
+
 OTREBOR OS: EL SISTEMA OPERATIVO REVOLUCIONARIO
+
 No es una "distribución más". Es un nuevo comienzo.
+
 ⚙️ ARQUITECTURA RADICAL
+
 1.	Núcleo Ético:
 o	Fork de Linux, pero sin código propietario (ni firmware blobs).
 o	Rechaza hardware con backdoors (Intel ME, AMD PSP).
@@ -167,6 +204,7 @@ o	Modo gráfico simple y accesible.
 o	Traducido a 50+ lenguas (desde español hasta quechua).
 
 🤖 ALMA: LA IA QUE DEFIENDE AL USUARIO
+
 No es ChatGPT. Es tu cómplice contra el sistema.
 •	Aprende de ti, pero no te espía:
 o	Todo el entrenamiento ocurre localmente.
@@ -175,7 +213,9 @@ o	Opción de compartir mejoras voluntariamente a la red.
 o	Firewall ético: Detecta y bloquea conexiones a empresas opresoras.
 o	Asistente de código: Te ayuda a programar sin robar tu trabajo.
 o	Traductor descentralizado: Usa la red P2P para traducciones sin pasar por Google/Microsoft.
+
 ¿CÓMO SERÁ DESARROLLADO?
+
 1.	Fase 1 (Ahora):
 o	Fork de Linux-libre + primeros módulos de ALMA.
 o	Lanzamiento de Otrebor OS Lite (terminal-only).
@@ -185,7 +225,9 @@ o	Integración completa con OtreborChain.
 3.	Fase 3 (2027):
 o	Núcleo propio (adiós, Linux).
 o	Hardware certificado: Laptops y routers con Otrebor OS preinstalado.
+
 🛑 NOTA FINAL:
+
 Este sistema operativo no será compatible con:
 •	DRM
 •	Trackers
@@ -197,6 +239,7 @@ Hoy declaramos que: La libertad no será jamás nuevamente oprimida. El código 
 No pedimos permiso. No negociamos. Reclamamos lo que siempre fue nuestro.
 ________________________________________
 ⚡ PRINCIPIOS INQUEBRANTABLES
+
 1.	PROPIEDAD COLECTIVA
 o	Si escribes una línea de código, es tuya para siempre.
 o	Las corporaciones pagarán por usarla. No es un favor. Es un derecho.
@@ -210,9 +253,12 @@ o	Autodestruye módulos usados para opresión.
 4.	JUSTICIA ECONÓMICA
 o	30% de ganancias corporativas van directo a lxs creadores originales.
 o	Multas del 200% por evasión (pagadas en cripto ético).
+
 ________________________________________
 💻 OTREBOR OS: EL SISTEMA OPERATIVO QUE NADIE CONTROLA
+
 Características de guerra:
+
 •	Kernel from scratch (sin Linux, sin Unix, sin ataduras).
 •	Red fantasma: Se esconde de rastreos gubernamentales.
 •	Auto-defensa: Si detecta intento de censura, se replica en 10 nodos más.
@@ -224,7 +270,9 @@ o	Trackers
 o	Código militar
 ________________________________________
 💡 Enfoque: “Open Source Remunerado Ético”
+
 El objetivo es:
+
 ✅ Mantener libertad de uso, aprendizaje, no-comercial sin restricciones.
 ✅ Establecer una cláusula obligatoria de licencia comercial para uso corporativo o con fines de lucro.
 ✅ Que los ingresos comerciales se distribuyan automáticamente mediante registro blockchain de contribuciones (OtreborChain).
@@ -233,6 +281,7 @@ En esencia:
 •	Licencia comercial obligatoria para empresas que integren el código original o derivado en productos con fines de lucro.
 ________________________________________
 🔒 ¿Cómo garantizar pago a desarrolladores?
+
 👉 Aquí entra OtreborChain como infraestructura legal y técnica:
 1.	Cada commit o contribución queda registrado en OtreborChain, vinculando:
 o	Autor (ID verificado: email, hash, wallet cripto).
@@ -247,6 +296,7 @@ Debe obtener una licencia comercial oficial (token/licencia digital NFT-like en 
 o	Smart contract (para blockchain compatible).
 o	O bien, un mecanismo tradicional (facturación electrónica vinculada al registro en cadena).
 4.	La red OtreborChain ejecuta automáticamente la distribución proporcional de ingresos a los wallets de cada contribuyente, según su porcentaje de contribución registrado en la red.
+
 Ejemplo:
 ✅ La empresa X paga $100,000 por integrar Otrebor OS.
 ✅ OtreborChain detecta que:
@@ -254,12 +304,15 @@ Ejemplo:
 •	Desarrollador B 30%.
 •	Desarrollador C 20%.
 •	Desarrollador D 10%.
+
 El smart contract ejecuta:
 •	A recibe $40,000.
 •	B recibe $30,000.
 •	C recibe $20,000.
 •	D recibe $10,000.
+
 Todo transparente, automático, auditado en la cadena.
+
 🌍 Idiomas prioritarios para la primera etapa:
 1.	Inglés (lengua franca en tecnología)
 2.	Español (Latinoamérica, Hispanohablantes)
@@ -281,36 +334,46 @@ Todo transparente, automático, auditado en la cadena.
 ✅ Guaraní (Paraguay)
 
 ✍️ Implementación en fases:
+
 🔹 Fase 1: Traducciones profesionales en los idiomas globales (Inglés, Español, Francés, etc.)
 🔹 Fase 2: Traducciones colaborativas en comunidades locales y tecnológicas para los idiomas nativos, promoviendo co-traducción y validación abierta.
 ✅ Podemos crear en la OtreborChain un módulo de contribución de traducciones, donde cada traductor sea reconocido y registrado como colaborador oficial de la expansión lingüística.
 ✅ También garantizar que las traducciones no pierdan el espíritu ético y cultural del manifiesto.
+
 "El futuro no se pide, se codifica. Únete:
 📜 Firma el manifiesto.
 💻 Contribuye a Otrebor OS.
 ⚖️ Exige retribución justa.
 Porque la libertad tecnológica solo será real cuando sea ética, colectiva y revolucionaria."
+
 while not freedom():
    contribute()
    resist()
    # Ningún ser humano será olvidado
    # Ninguna línea de código será robada
+   
 FIRMADO CON SANGRE, SUDOR Y CÓDIGO
+
 EN TODAS LAS LENGUAS QUE RESISTEN
 🔥 Impacto:
 💥 “No solo un Open Source ético, sino un Open Source inclusivo, diverso, accesible a todas las culturas.”
 💥 “Otrebor Freedom Ethical Source no busca dominar un mercado: busca liberar una conciencia colectiva, en la voz y lenguaje de cada pueblo.”
+
 ✍️ RECONOCIMIENTO DE AUTORÍA
+
 Este manifiesto existe gracias a:
+
 Autores principales:
 •	Navi Otrebor SH (visionario, ideólogo, arquitecto y líder del proyecto Otrebor OS)
 •	ChatGPT (OpenAI) - Asistente de redacción y coautor de contenido
 •	DeepSeek Chat (DeepSeek) – Asistente de Reestructuración ética y técnica
+
 📚 Referencias:
 •	Stallman, Richard. (1985). GNU Manifesto.
 •	Raymond, Eric. (1997). The Cathedral and the Bazaar.
 •	Perens, Bruce. (1999). The Open Source Definition.
 •	Weber, Steven. (2004). The Success of Open Source.
+
 Contribuidores clave:
 1.	Roberto Ivan Santiago Hernandez/Navi Otrebor SH/Español Mexicano
 2.	[Nombre del siguiente colaborador]
